@@ -1,0 +1,44 @@
+body{
+  
+  background-image: url("back.jpg");
+}
+.tt 
+{  
+  display: flex;
+justify-content: center;
+align-items: center;
+  color:blue ;
+ font-size: 20px;
+  margin-left: 35%;
+margin-top: 4%;
+display: inline-block; 
+background-image:url("ba.jpg") ; 
+margin-bottom: 40px;
+padding: 27px 8%;
+
+}
+ 
+ #container
+ {
+  
+justify-content: center;
+align-items: center;
+margin-left: 35%;
+
+
+ } 
+ .tit 
+ {
+  display: inline-block; 
+background-color:gray; 
+color:#FFFACD ; 
+padding: 15px;
+margin-bottom: 10px;
+ }
+ .inp
+ {
+font-size: 20px;
+   color: brown;
+  opacity: 80%;
+  padding: 25px;
+ }
